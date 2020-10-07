@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="StudTeachBase:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/StudTeachBase_jar</output-path>
+    <root id="archive" name="StudTeachBase.jar">
+      <element id="module-output" name="StudTeachBase" />
+    </root>
+  </artifact>
+</component>
